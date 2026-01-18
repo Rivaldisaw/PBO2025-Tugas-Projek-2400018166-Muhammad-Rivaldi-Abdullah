@@ -1,0 +1,4 @@
+ID,Tipe,Judul,Tanggal,Waktu Mulai,Waktu Selesai,Status,Mata Kuliah,Detail
+1,KegiatanBelajar,"Belajar Polimorfisme",2026-01-16,08:00,10:00,Selesai,"Pemrograman Berorientasi Objek","Polimorfisme & Abstract Class"
+2,KegiatanTugas,"Tugas Basis Data",2026-01-16,13:00,15:00,Sedang Dikerjakan,"Basis Data",Deadline: 2026-01-19 | Progress: 65%
+3,KegiatanBelajar,"Belajar Norma",2026-01-16,19:00,21:00,Belum Mulai,"Basis Data","Normalisasi Database"
